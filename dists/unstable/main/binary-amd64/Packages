@@ -1,0 +1,477 @@
+Package: appmotor
+Version: 0.7-1
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 229
+Depends: libc6 (>= 2.34), libcap2 (>= 1:2.10), libdbus-1-3 (>= 1.9.14), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 11), libsystemd0
+Homepage: https://github.com/cutefishos/appmotor
+Priority: optional
+Section: devel
+Filename: pool/main/a/appmotor/appmotor_0.7-1_amd64.deb
+Size: 63828
+SHA256: 80837200ee52cb78b42535997d9c077a794d2bbd67f5788be665ffd46c61d5fe
+SHA1: fc42eb2800d2a1d5a477090d5c28ae8b49f8c072
+MD5sum: e31a2638a3e2bee8a1e367489a089926
+Description: CutefishOS Appmotor
+
+Package: cutefish-calculator
+Version: 0.6-1
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 218
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libstdc++6 (>= 5.2)
+Homepage: https://github.com/cutefishos/calculator
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-calculator/cutefish-calculator_0.6-1_amd64.deb
+Size: 77830
+SHA256: 3fa410cbe00f39f7ebc0b2e315d5970ab881f0d5ed60249b7a8e27c5f4a911be
+SHA1: a39cf331ddf0fcd3b64cae32b9410b2331b9e71d
+MD5sum: 92671b184c644c7913265b6cb844d6f4
+Description: CutefishOS Calculator
+
+Package: cutefish-core
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 1476
+Depends: accountsservice, qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, appmenu-gtk2-module, appmenu-gtk3-module, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5coreaddons5 (>= 4.97.0), libkf5idletime5 (>= 4.96.0), libkf5windowsystem5 (>= 5.25.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6 (>= 2:1.2.99.901), libx11-xcb1 (>= 2:1.7.5), libxcb-composite0, libxcb-damage0, libxcb-dpms0, libxcb-image0 (>= 0.2), libxcb-record0, libxcb-shape0, libxcb-util1 (>= 0.4.0), libxcb1 (>= 1.6), libxcursor1 (>> 1.1.2), libxi6 (>= 2:1.2.99.4), libxtst6
+Homepage: https://github.com/Simple-Linux-DE/core
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-core/cutefish-core_0.8-alpha1_amd64.deb
+Size: 353988
+SHA256: e9356959a20faadb5f883c7989f0e9883682b88b3fc314937077044be3833d9c
+SHA1: 772161187db1e25b2bfa244aaf74e6a90ec50c2f
+MD5sum: a2d3713b5016385f5e9ad3d455e5fc46
+Description: CutefishOS System Components
+
+Package: cutefish-cursor-themes
+Version: 0.5
+Architecture: amd64
+Maintainer: Reion Wong <reion@cutefishos.com>
+Installed-Size: 83437
+Homepage: https://cutefishos.com
+Priority: optional
+Section: kde
+Filename: pool/main/c/cutefish-cursor-themes/cutefish-cursor-themes_0.5_amd64.deb
+Size: 5030744
+SHA256: dd49f2973e0f0b4e4ec90597c59b0dc3afb518bf9188017f5b3a61f3ebb836e4
+SHA1: f49948ae06278ec663fde09126e292357a816dd9
+MD5sum: 792ea6c0530813b1ee6ea81df5c86346
+Description: CutefishOS Cursor Theme
+
+Package: cutefish-daemon
+Version: 0.8
+Architecture: amd64
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 55
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Homepage: http://cutefishos.com
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-daemon/cutefish-daemon_0.8_amd64.deb
+Size: 13354
+SHA256: 8538c5dbb1bb18c1ea61d590f3a57750d0e38d381921803dd54392ba140d8322
+SHA1: b540f29f60d70e8b34bf2b360fc7cc0877f82aec
+MD5sum: 41ec5164172ff4230001a407ea292f46
+Description: CutefishOS Daemon.
+
+Package: cutefish-debinstaller
+Version: 0.7-1
+Architecture: amd64
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 95
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libapt-pkg6.0 (>= 0.8.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Homepage: https://cutefishos.com/
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-debinstaller/cutefish-debinstaller_0.7-1_amd64.deb
+Size: 27442
+SHA256: 51abcc04246992a71ab1ca845ab10527b712d3632dda455d48275b0a09898302
+SHA1: 884ec3389392ee1183f7ce35f2c37fb20f6d7eec
+MD5sum: d897f1aceb8668f5326a9d358fc7e129
+Description: CutefishOS Deb Installer
+
+Package: cutefish-dock
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 272
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtgraphicaleffects, fishui, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.35.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1)
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-dock/cutefish-dock_0.8-alpha1_amd64.deb
+Size: 75520
+SHA256: f1c45d052f6ec7ae8586036ce4d657273aedd44a7e2221bed01d735bcd9f0b30
+SHA1: 66f3af4009e444dd55ae2f6fb69fccb7db65bef9
+MD5sum: 73d393ba03c03d68ffe2ecf4f867752e
+Description: CutefishOS Dock
+
+Package: cutefish-filemanager
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 948
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtgraphicaleffects, fishui, libcutefish, kio, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5configcore5 (>= 4.97.0), libkf5coreaddons5 (>= 4.97.0), libkf5kiocore5 (>= 5.92.0), libkf5kiowidgets5 (>= 5.3.0+git20141101.0339), libkf5solid5 (>= 5.74.0), libkf5windowsystem5 (>= 4.96.0), libkf5xmlgui5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.9.0~beta) | libqt5gui5-gles (>= 5.9.0~beta), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-filemanager/cutefish-filemanager_0.8-alpha1_amd64.deb
+Size: 253156
+SHA256: e89a4a7a041c72504a3281382aa1cb7950db10795d85efd1d83a42b40bc5f2ed
+SHA1: dd8f6dc58298f15367fa1d1097fc2e159f98e3f5
+MD5sum: bca7622c62c8a6706dd35aed23691ffd
+Description: CutefishOS File Manager
+
+Package: cutefish-filemanager-build-deps
+Version: 0.7-1
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <root@fv-az178-505.ou4bps3zwvpehennzi3rrspmbh.dx.internal.cloudapp.net>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, libkf5kio-dev, libkf5solid-dev, libkf5windowsystem-dev, qtbase5-dev, qtbase5-private-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-filemanager-build-deps/cutefish-filemanager-build-deps_0.7-1_all.deb
+Size: 2254
+SHA256: f8fab2c7ffee6bc1c858fedf88a6a4d8490aedb852853677cf952e8d61a5fffb
+SHA1: efd2db13e821a77279ddaecf361fe7abe6172b4e
+MD5sum: 511a53f2a779cbec7bb9ef1368c815de
+Description: build-dependencies for cutefish-filemanager
+ Dependency package to build the 'cutefish-filemanager' package
+
+Package: cutefish-gtk-themes
+Version: 0.7
+Architecture: amd64
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 2557
+Homepage: https://cutefishos.com
+Priority: optional
+Section: gnome
+Filename: pool/main/c/cutefish-gtk-themes/cutefish-gtk-themes_0.7_amd64.deb
+Size: 96510
+SHA256: 28cf9ccdd037a850a8e8117635ebdfcb26943b2ef822a2c4616c179daa3499a2
+SHA1: 6901e7e5761c1566a631131ed55e12103fa22d61
+MD5sum: a3706b35336f29f10ad840194a41c73c
+Description: CutefishOS GTK Themes
+
+Package: cutefish-icons
+Version: 0.8
+Architecture: all
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 42027
+Homepage: https://cutefishos.com
+Priority: optional
+Section: x11
+Filename: pool/main/c/cutefish-icons/cutefish-icons_0.8_all.deb
+Size: 3056812
+SHA256: f478e83b919a90a1b98bc72adae5daa1bff4771d3e083a35016d17c7301272b5
+SHA1: 4096eccaa7b6088d59ba3c6a90e32e802cf07fff
+MD5sum: 83e60b739a63bddb4ceb2ac42f501f07
+Description: CutefishOS Icons
+
+Package: cutefish-kwin-plugins
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 212
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, libc6 (>= 2.29), libgcc-s1 (>= 3.3.1), libkdecorations2-5v5 (>= 5.1.50+git20141206.0010+15.04), libkf5coreaddons5 (>= 4.99.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5)
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-kwin-plugins/cutefish-kwin-plugins_0.8-alpha1_amd64.deb
+Size: 44816
+SHA256: 064b3b6849d84b35e2df00504c10b68a9d4adfd1128de9476372389c7fa587c1
+SHA1: 63d156e0b102c2a4a9c521c8c703a812e55fba2e
+MD5sum: fb0fed642fe0488d2ef453c2a018b9ba
+Description: CutefishOS KWin Plugins. Built by SLDE
+
+Package: cutefish-launcher
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 234
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, fishui, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-launcher/cutefish-launcher_0.8-alpha1_amd64.deb
+Size: 63140
+SHA256: 816d322330ea9333c0f798ce55ee3aad5ab0b7d49fe3dcd41f4d47e7cf509647
+SHA1: 5d2002bb0731d30a0bd3fe8eb9013e59277cf17b
+MD5sum: 5293c48d77db9b3b93b2bb2b1d091af6
+Description: CutefishOS Launcher
+
+Package: cutefish-launcher-build-deps
+Version: 0.7
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <qinyn@qinyn-ThinkPad-T490>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, libkf5windowsystem-dev, qtbase5-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-launcher-build-deps/cutefish-launcher-build-deps_0.7_all.deb
+Size: 2132
+SHA256: ffe51b9aa9de1eb3be7bfa4c04734f7b9188f90e60975a6635cf62845fd2652e
+SHA1: 644021f2c0aabaebf1dac75a77cfc78f60aed8eb
+MD5sum: 2ba3c980217b156793f6dd383de4837b
+Description: build-dependencies for cutefish-launcher
+ Dependency package to build the 'cutefish-launcher' package
+
+Package: cutefish-plymouth-theme
+Version: 0.5
+Architecture: all
+Maintainer: Reion Wong <reion@cutefishos.com>
+Installed-Size: 39
+Priority: optional
+Section: misc
+Filename: pool/main/c/cutefish-plymouth-theme/cutefish-plymouth-theme_0.5_all.deb
+Size: 15216
+SHA256: 6adb49540357bc01e6d4a368075d0428d069c29abbec3b7490dd06024a1f7237
+SHA1: 713ac0d6114cbb20016ddf532b2afd7bf4252225
+MD5sum: 9b4877ad88756a666cb8be9f1452b1be
+Description: Plymouth theme for CutefishOS.
+
+Package: cutefish-qt-plugins
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 513
+Depends: libc6 (>= 2.29), libdbusmenu-qt5-2 (>= 0.3.2), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.69.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5quickcontrols2-5 (>= 5.7.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libqt5xdgiconloader3 (>= 2.0.0), libstdc++6 (>= 5), qtbase-abi-5-15-3
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-qt-plugins/cutefish-qt-plugins_0.8-alpha1_amd64.deb
+Size: 168984
+SHA256: d1f649d2550afbd85c018e76575da13307d5a17338022d9ecb364365e98b4208
+SHA1: f5425b7db2e6da7febb6937936f7a7f2c1b5e5a6
+MD5sum: ba73fb0b04a7b59cf3b406ec0d3f0638
+Description: CutefishOS Qt Plugins
+
+Package: cutefish-screenlocker
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 164
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, fishui, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libpam0g (>= 0.99.7.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-screenlocker/cutefish-screenlocker_0.8-alpha1_amd64.deb
+Size: 38044
+SHA256: a842531bc9804c14c0d08d0994e884b03060fc3dd09ca42cf41ef6a720576819
+SHA1: 379c592d28e3e2b01a08564b343aab2c4914b76f
+MD5sum: 31be5387815d76c6199b8510935ddbb6
+Description: CutefishOS Screen Locker
+
+Package: cutefish-screenlocker-build-deps
+Version: 0.6
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <root@fv-az453-465.2vhfbungzw1e3oo2z3acampsgb.dx.internal.cloudapp.net>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, qtbase5-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools, libqt5x11extras5-dev, libpam0g-dev, libx11-dev
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-screenlocker-build-deps/cutefish-screenlocker-build-deps_0.6_all.deb
+Size: 2226
+SHA256: 4750faba98b31fb883e902815c05d92309a231c2812933da1ec428ebbae069d8
+SHA1: 42e4ddb0e1a8531e331fd840dfa3abe93c1b5afe
+MD5sum: 5242e001a34fcde3de30b8f7b7a5ade1
+Description: build-dependencies for cutefish-screenlocker
+ Dependency package to build the 'cutefish-screenlocker' package
+
+Package: cutefish-screenshot
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 115
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, fishui, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-screenshot/cutefish-screenshot_0.8-alpha1_amd64.deb
+Size: 23190
+SHA256: 2cf75d3a57fc84c4d2ca8acd7afd2c17a965ea9c0604d2b1bc03250f971029a8
+SHA1: 67d4ddf9c5e14d54a095d0eb117563851b468028
+MD5sum: ef9f65ef0f3f854156381144b8233114
+Description: CutefishOS Screenshot
+
+Package: cutefish-sddm-theme
+Version: 0.5-1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 44
+Depends: qml-module-qtquick-controls2, qml-module-qtquick-controls, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, sddm
+Homepage: https://github.com/Simple-Linux-DE/sddm-theme
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-sddm-theme/cutefish-sddm-theme_0.5-1_amd64.deb
+Size: 6774
+SHA256: e881657779faa06aa47402fb46aba9c2183510c7d7bda0059c300ff5f11fb0bd
+SHA1: e80cef258dfb7ad03951afe6d8e1c402b397263d
+MD5sum: 64cfe405fc2d9051a062f3f1a3247958
+Description: CutefishOS Calculator
+
+Package: cutefish-settings
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 1390
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtquick-particles2, kscreen, fishui, libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libfontconfig1 (>= 2.12.6), libgcc-s1 (>= 3.3.1), libicu70 (>= 70.1-1~), libkf5configcore5 (>= 4.97.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libx11-6, libxcursor1 (>> 1.1.2), libxfixes3
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-settings/cutefish-settings_0.8-alpha1_amd64.deb
+Size: 322122
+SHA256: 79f5f1fc04ccee8c15c65aabadb63c7a6963dceede398ac906f4ec9f172c45da
+SHA1: 58e8df0eb1e8e1776890b548e5460839de49fad9
+MD5sum: 62b13fb856c05678892ef4e5fb002fda
+Description: CutefishOS Settings
+
+Package: cutefish-statusbar
+Version: 0.8-2-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 709
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, fishui, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.35.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libxcb1
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-statusbar/cutefish-statusbar_0.8-2-alpha1_amd64.deb
+Size: 179546
+SHA256: 70c3fa1b50e31f2877cd47dd51434c49c4931e881f1dcd5573fd3642f383dfff
+SHA1: 8cf43fd7e86ef60a401fcfc6d8a35bc53f2068e4
+MD5sum: 7436a0c3e33afb7f1db8911bb7a73ec7
+Description: CutefishOS Statusbar
+
+Package: cutefish-terminal
+Version: 0.8-alpha2
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 879
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtgraphicaleffects, fishui, libcutefish, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.1) | libqt5quick5-gles (>= 5.6.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-terminal/cutefish-terminal_0.8-alpha2_amd64.deb
+Size: 257272
+SHA256: 70f4c2d4515fe16e6cb0cb9c57a218e84e4417ecbdfe9b6f4ac2a256fab37833
+SHA1: cab6cfab82bc0b360935631f2ac06cc977226820
+MD5sum: f98d7fb9835c2b96eb656416fd0ec94e
+Description: CutefishOS Terminal
+
+Package: cutefish-updator
+Version: 0.8-2-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 345
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtgraphicaleffects, fishui, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.1.0), libstdc++6 (>= 4.1.1)
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-updator/cutefish-updator_0.8-2-alpha1_amd64.deb
+Size: 287776
+SHA256: d77b0ed0ad19ddf1228d4fee65698f0e0015433aaab9dd345c01c8382591846e
+SHA1: 384aa3fb724e9456cd76688a3220ae2d6cd9d311
+MD5sum: b242540c2ce6e042e1a14258233f4677
+Description: CutefishOS Updator.
+
+Package: cutefish-videoplayer
+Version: 0.5-3
+Architecture: amd64
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 248
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtquick-particles2, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libmpv1 (>= 0.29), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.4.0) | libqt5quick5-gles (>= 5.4.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2), qtdeclarative-abi-5-15-3
+Homepage: https://cutefishos.com
+Priority: optional
+Section: video
+Filename: pool/main/c/cutefish-videoplayer/cutefish-videoplayer_0.5-3_amd64.deb
+Size: 82342
+SHA256: e9ff10c391de161da6faf374c8d4547b5bff98544b0387a930f5eff74be3313b
+SHA1: ac5d9664643423458b525a82d6c797b4ba34eaf3
+MD5sum: 3c51d194ff1ddc2d3d1a1bf211a9f7f4
+Description: An open source video player built with Qt/QML and libmpv
+
+Package: cutefish-wallpapers
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 1558
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-wallpapers/cutefish-wallpapers_0.8-alpha1_amd64.deb
+Size: 1293942
+SHA256: 7608021d92b4b3158025e7d03dff53e9bed8174c4efae32340f4cb0a4433e8ce
+SHA1: 989bcb5b334225be2efa2213df6dbd9d75281db6
+MD5sum: 1ebba7b84bf468714de3af49975af32b
+Description: CutefishOS Wallpapers
+
+Package: fishui
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 854
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 5.69.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5qml5 (>= 5.4.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1)
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/f/fishui/fishui_0.8-alpha1_amd64.deb
+Size: 117614
+SHA256: df5916904e3a0639e554fa384fbda14da92ac5cdb0fba736e91f8eb111553add
+SHA1: c608fd1737af937ffc1293518f5f2fd64faa3162
+MD5sum: f380ddfc52dc5dcb9c0c0f87bd0956da
+Description: CutefishOS UIKit
+
+Package: libcutefish
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 1926
+Depends: libc6 (>= 2.14), libcanberra0 (>= 0.16), libgcc-s1 (>= 3.3.1), libkf5bluezqt6 (>= 5.77.0), libkf5coreaddons5 (>= 4.97.0), libkf5networkmanagerqt6 (>= 5.66.0), libkf5screen-bin (>= 4:5.17.5~), libkf5screen7 (>= 4:5.23.80), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.7.0) | libqt5quick5-gles (>= 5.7.0), libqt5sensors5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 5)
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/libc/libcutefish/libcutefish_0.8-alpha1_amd64.deb
+Size: 499734
+SHA256: 9eab5e38ba7705df9c1f1084ecb72f4ce60eab6c48c83d3967ff44936caf971b
+SHA1: e74e5eb79d9bcb755acf3246a60ac8a6a29f63ee
+MD5sum: 85a3e6c1b04f6abe393af3835163e31b
+Description: CutefishOS Library. Maintained by Simple Linux DE.
+
+Package: libcutefish-build-deps
+Version: 0.8-alpha1
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <root@fv-az176-769.urr04s1gdzguhowldvrowxwctd.dx.internal.cloudapp.net>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, libkf5networkmanagerqt-dev, libkf5kio-dev, libkf5screen-dev, libkf5bluezqt-dev, modemmanager-qt-dev, libqt5sensors5-dev, libcanberra-dev, libpulse-dev, sound-theme-freedesktop, qtbase5-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/libc/libcutefish-build-deps/libcutefish-build-deps_0.8-alpha1_all.deb
+Size: 2342
+SHA256: 1cd1b24b588cc121c67e0a31da112fa884783aace3088187156e03ac8ebdf3f9
+SHA1: 77c8c7afc5142990c7f817d964facd39418f03b7
+MD5sum: fe6dcbc38ec461cb9dc5969fcd723748
+Description: build-dependencies for libcutefish
+ Dependency package to build the 'libcutefish' package
+
+Package: texteditor
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 9
+Homepage: https://github.com/Simple-Linux-DE/texteditor
+Priority: optional
+Section: devel
+Filename: pool/main/t/texteditor/texteditor_0.8-alpha1_amd64.deb
+Size: 2010
+SHA256: fa043dbd007471bc836af8f81973e9e005a0eab3a9090e15abc1e71a1cf433f6
+SHA1: ed704a69f08a0568ad20481a1c60022fb49e4548
+MD5sum: 52d09b165edbc7eb08c33397b5986a88
+Description: CutefishOS Texteditor
+

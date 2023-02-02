@@ -1,0 +1,97 @@
+Package: cutefish-filemanager-build-deps
+Version: 0.7-1
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <root@fv-az178-505.ou4bps3zwvpehennzi3rrspmbh.dx.internal.cloudapp.net>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, libkf5kio-dev, libkf5solid-dev, libkf5windowsystem-dev, qtbase5-dev, qtbase5-private-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-filemanager-build-deps/cutefish-filemanager-build-deps_0.7-1_all.deb
+Size: 2254
+SHA256: f8fab2c7ffee6bc1c858fedf88a6a4d8490aedb852853677cf952e8d61a5fffb
+SHA1: efd2db13e821a77279ddaecf361fe7abe6172b4e
+MD5sum: 511a53f2a779cbec7bb9ef1368c815de
+Description: build-dependencies for cutefish-filemanager
+ Dependency package to build the 'cutefish-filemanager' package
+
+Package: cutefish-icons
+Version: 0.8
+Architecture: all
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 42027
+Homepage: https://cutefishos.com
+Priority: optional
+Section: x11
+Filename: pool/main/c/cutefish-icons/cutefish-icons_0.8_all.deb
+Size: 3056812
+SHA256: f478e83b919a90a1b98bc72adae5daa1bff4771d3e083a35016d17c7301272b5
+SHA1: 4096eccaa7b6088d59ba3c6a90e32e802cf07fff
+MD5sum: 83e60b739a63bddb4ceb2ac42f501f07
+Description: CutefishOS Icons
+
+Package: cutefish-launcher-build-deps
+Version: 0.7
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <qinyn@qinyn-ThinkPad-T490>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, libkf5windowsystem-dev, qtbase5-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-launcher-build-deps/cutefish-launcher-build-deps_0.7_all.deb
+Size: 2132
+SHA256: ffe51b9aa9de1eb3be7bfa4c04734f7b9188f90e60975a6635cf62845fd2652e
+SHA1: 644021f2c0aabaebf1dac75a77cfc78f60aed8eb
+MD5sum: 2ba3c980217b156793f6dd383de4837b
+Description: build-dependencies for cutefish-launcher
+ Dependency package to build the 'cutefish-launcher' package
+
+Package: cutefish-plymouth-theme
+Version: 0.5
+Architecture: all
+Maintainer: Reion Wong <reion@cutefishos.com>
+Installed-Size: 39
+Priority: optional
+Section: misc
+Filename: pool/main/c/cutefish-plymouth-theme/cutefish-plymouth-theme_0.5_all.deb
+Size: 15216
+SHA256: 6adb49540357bc01e6d4a368075d0428d069c29abbec3b7490dd06024a1f7237
+SHA1: 713ac0d6114cbb20016ddf532b2afd7bf4252225
+MD5sum: 9b4877ad88756a666cb8be9f1452b1be
+Description: Plymouth theme for CutefishOS.
+
+Package: cutefish-screenlocker-build-deps
+Version: 0.6
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <root@fv-az453-465.2vhfbungzw1e3oo2z3acampsgb.dx.internal.cloudapp.net>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, qtbase5-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools, libqt5x11extras5-dev, libpam0g-dev, libx11-dev
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-screenlocker-build-deps/cutefish-screenlocker-build-deps_0.6_all.deb
+Size: 2226
+SHA256: 4750faba98b31fb883e902815c05d92309a231c2812933da1ec428ebbae069d8
+SHA1: 42e4ddb0e1a8531e331fd840dfa3abe93c1b5afe
+MD5sum: 5242e001a34fcde3de30b8f7b7a5ade1
+Description: build-dependencies for cutefish-screenlocker
+ Dependency package to build the 'cutefish-screenlocker' package
+
+Package: libcutefish-build-deps
+Version: 0.8-alpha1
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <root@fv-az176-769.urr04s1gdzguhowldvrowxwctd.dx.internal.cloudapp.net>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, libkf5networkmanagerqt-dev, libkf5kio-dev, libkf5screen-dev, libkf5bluezqt-dev, modemmanager-qt-dev, libqt5sensors5-dev, libcanberra-dev, libpulse-dev, sound-theme-freedesktop, qtbase5-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/libc/libcutefish-build-deps/libcutefish-build-deps_0.8-alpha1_all.deb
+Size: 2342
+SHA256: 1cd1b24b588cc121c67e0a31da112fa884783aace3088187156e03ac8ebdf3f9
+SHA1: 77c8c7afc5142990c7f817d964facd39418f03b7
+MD5sum: fe6dcbc38ec461cb9dc5969fcd723748
+Description: build-dependencies for libcutefish
+ Dependency package to build the 'libcutefish' package
+

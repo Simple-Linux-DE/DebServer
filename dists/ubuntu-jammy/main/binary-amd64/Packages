@@ -1,0 +1,132 @@
+Package: cutefish-filemanager
+Version: 0.7-1
+Architecture: amd64
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 940
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtgraphicaleffects, kio, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5configcore5 (>= 4.97.0), libkf5coreaddons5 (>= 4.97.0), libkf5kiocore5 (>= 5.92.0), libkf5kiowidgets5 (>= 5.3.0+git20141101.0339), libkf5solid5 (>= 5.74.0), libkf5windowsystem5 (>= 4.96.0), libkf5xmlgui5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.9.0~beta) | libqt5gui5-gles (>= 5.9.0~beta), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Homepage: https://cutefishos.com
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-filemanager/cutefish-filemanager_0.7-1_amd64.deb
+Size: 246520
+SHA256: 920d6cb102c643bfd4a85898222929d3cd0cf1a11a92d2ebc78ab6eec38537ff
+SHA1: ec0178539f24c5adbd98620fc5710e0049a575ee
+MD5sum: d8cfecb18b6180b795d45f97e410fd40
+Description: CutefishOS File Manager
+
+Package: cutefish-filemanager-build-deps
+Version: 0.7-1
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <root@fv-az178-505.ou4bps3zwvpehennzi3rrspmbh.dx.internal.cloudapp.net>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, libkf5kio-dev, libkf5solid-dev, libkf5windowsystem-dev, qtbase5-dev, qtbase5-private-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-filemanager-build-deps/cutefish-filemanager-build-deps_0.7-1_all.deb
+Size: 2254
+SHA256: f8fab2c7ffee6bc1c858fedf88a6a4d8490aedb852853677cf952e8d61a5fffb
+SHA1: efd2db13e821a77279ddaecf361fe7abe6172b4e
+MD5sum: 511a53f2a779cbec7bb9ef1368c815de
+Description: build-dependencies for cutefish-filemanager
+ Dependency package to build the 'cutefish-filemanager' package
+
+Package: cutefish-launcher
+Version: 0.7
+Architecture: amd64
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 230
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5windowsystem5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Homepage: https://cutefishos.com
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-launcher/cutefish-launcher_0.7_amd64.deb
+Size: 61056
+SHA256: 8617504fd8d68b69cd7bb2ac141e5e708a582d2f9f8acf5a3535e1a0b07f849c
+SHA1: b0050b5c1fca9effdd49bffebe7c12ef3d50adbf
+MD5sum: 970a59ae7182263c6474bc9b16684f8e
+Description: CutefishOS Launcher
+
+Package: cutefish-launcher-build-deps
+Version: 0.7
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <qinyn@qinyn-ThinkPad-T490>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, libkf5windowsystem-dev, qtbase5-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-launcher-build-deps/cutefish-launcher-build-deps_0.7_all.deb
+Size: 2132
+SHA256: ffe51b9aa9de1eb3be7bfa4c04734f7b9188f90e60975a6635cf62845fd2652e
+SHA1: 644021f2c0aabaebf1dac75a77cfc78f60aed8eb
+MD5sum: 2ba3c980217b156793f6dd383de4837b
+Description: build-dependencies for cutefish-launcher
+ Dependency package to build the 'cutefish-launcher' package
+
+Package: cutefish-screenlocker
+Version: 0.6
+Architecture: amd64
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 144
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libpam0g (>= 0.99.7.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6
+Homepage: https://cutefishos.com
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-screenlocker/cutefish-screenlocker_0.6_amd64.deb
+Size: 36168
+SHA256: ba641a3a867f5766444c77c4425164fc1724da04c67b64ea9f4e1ff034b2d545
+SHA1: 0eb176791cd6337a53e1a208c7c6cdbf99618638
+MD5sum: f85c5d9abae90c4cf0b6540431c3fea3
+Description: CutefishOS Screen Locker
+
+Package: cutefish-screenlocker-build-deps
+Version: 0.6
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <root@fv-az453-465.2vhfbungzw1e3oo2z3acampsgb.dx.internal.cloudapp.net>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, qtbase5-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools, libqt5x11extras5-dev, libpam0g-dev, libx11-dev
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/c/cutefish-screenlocker-build-deps/cutefish-screenlocker-build-deps_0.6_all.deb
+Size: 2226
+SHA256: 4750faba98b31fb883e902815c05d92309a231c2812933da1ec428ebbae069d8
+SHA1: 42e4ddb0e1a8531e331fd840dfa3abe93c1b5afe
+MD5sum: 5242e001a34fcde3de30b8f7b7a5ade1
+Description: build-dependencies for cutefish-screenlocker
+ Dependency package to build the 'cutefish-screenlocker' package
+
+Package: libcutefish
+Version: 0.8-alpha1
+Architecture: amd64
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
+Installed-Size: 1926
+Depends: libc6 (>= 2.14), libcanberra0 (>= 0.16), libgcc-s1 (>= 3.3.1), libkf5bluezqt6 (>= 5.77.0), libkf5coreaddons5 (>= 4.97.0), libkf5networkmanagerqt6 (>= 5.66.0), libkf5screen-bin (>= 4:5.17.5~), libkf5screen7 (>= 4:5.23.80), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.7.0) | libqt5quick5-gles (>= 5.7.0), libqt5sensors5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 5)
+Homepage: https://github.com/Simple-Linux-DE
+Priority: optional
+Section: devel
+Filename: pool/main/libc/libcutefish/libcutefish_0.8-alpha1_amd64.deb
+Size: 499734
+SHA256: 9eab5e38ba7705df9c1f1084ecb72f4ce60eab6c48c83d3967ff44936caf971b
+SHA1: e74e5eb79d9bcb755acf3246a60ac8a6a29f63ee
+MD5sum: 85a3e6c1b04f6abe393af3835163e31b
+Description: CutefishOS Library. Maintained by Simple Linux DE.
+
+Package: libcutefish-build-deps
+Version: 0.8-alpha1
+Architecture: all
+Maintainer: Equivs Dummy Package Generator <root@fv-az176-769.urr04s1gdzguhowldvrowxwctd.dx.internal.cloudapp.net>
+Installed-Size: 9
+Depends: build-essential:amd64, cmake, debhelper (>= 9), extra-cmake-modules, libkf5networkmanagerqt-dev, libkf5kio-dev, libkf5screen-dev, libkf5bluezqt-dev, modemmanager-qt-dev, libqt5sensors5-dev, libcanberra-dev, libpulse-dev, sound-theme-freedesktop, qtbase5-dev, qtdeclarative5-dev, qtquickcontrols2-5-dev, qttools5-dev, qttools5-dev-tools
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/libc/libcutefish-build-deps/libcutefish-build-deps_0.8-alpha1_all.deb
+Size: 2342
+SHA256: 1cd1b24b588cc121c67e0a31da112fa884783aace3088187156e03ac8ebdf3f9
+SHA1: 77c8c7afc5142990c7f817d964facd39418f03b7
+MD5sum: fe6dcbc38ec461cb9dc5969fcd723748
+Description: build-dependencies for libcutefish
+ Dependency package to build the 'libcutefish' package
+

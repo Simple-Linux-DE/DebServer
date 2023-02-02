@@ -1,0 +1,15 @@
+Codename: unstable
+#Update: update_from_base
+Architectures: amd64 source i386
+Components: main contrib non-free
+SignWith: F95156D267905E605A17719FF5D1CCA2BD189758
+Description: private debian packages
+Log: ppa.log
+
+Codename: ubuntu-jammy
+#Update: update_from_base
+Architectures: amd64 source i386
+Components: main contrib non-free
+SignWith: F95156D267905E605A17719FF5D1CCA2BD189758
+Description: private debian packages
+Log: ppa.log
